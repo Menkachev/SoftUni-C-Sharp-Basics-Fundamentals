@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Circle-Area\bin\Debug\Circle-Area.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Circle-Area\bin\Debug\Circle-Area.exe
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Circle-Area\bin\Debug\Circle-Area.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Circle-Area\obj\Debug\Circle-Area.exe
+c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Circle-Area\obj\Debug\Circle-Area.pdb
