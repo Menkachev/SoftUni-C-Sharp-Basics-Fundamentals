@@ -1,6 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\bin\Debug\_01.Training_Lab.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\bin\Debug\_01.Training_Lab.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\bin\Debug\_01.Training_Lab.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\obj\Debug\01. Training Lab.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\obj\Debug\_01.Training_Lab.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\01. Training Lab\obj\Debug\_01.Training_Lab.pdb

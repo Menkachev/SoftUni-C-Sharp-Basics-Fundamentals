@@ -1,6 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

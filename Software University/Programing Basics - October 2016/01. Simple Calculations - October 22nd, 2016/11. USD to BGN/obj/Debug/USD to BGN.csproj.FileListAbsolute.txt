@@ -1,5 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\USD to BGN\obj\Debug\USD to BGN.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Simple-Calculations\USD to BGN\obj\Debug\USD to BGN.pdb

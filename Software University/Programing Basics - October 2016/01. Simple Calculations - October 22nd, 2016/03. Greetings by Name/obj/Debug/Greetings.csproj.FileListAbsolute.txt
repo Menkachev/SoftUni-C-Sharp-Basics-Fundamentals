@@ -1,5 +1,0 @@
-c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Greetings\bin\Debug\Greetings.exe.config
-c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Greetings\bin\Debug\Greetings.exe
-c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Greetings\bin\Debug\Greetings.pdb
-c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Greetings\obj\Debug\Greetings.exe
-c:\users\admin\documents\visual studio 2015\Projects\Simple-Calculations\Greetings\obj\Debug\Greetings.pdb
