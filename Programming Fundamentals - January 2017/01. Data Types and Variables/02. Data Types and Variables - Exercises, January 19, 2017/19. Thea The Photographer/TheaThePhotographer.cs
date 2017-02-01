@@ -36,11 +36,11 @@
             int percentageOfGoodPictures = (int)Math.Ceiling(takenPictures * ((double)filterPercentage / 100));
             int timeForUploadPerPicture = percentageOfGoodPictures * uploadTime;
 
-            var totalTime = filteredPictures + timeForUploadPerPicture;
+            var totalSeconds = filteredPictures + timeForUploadPerPicture;
 
-            var time = new TimeSpan(0, 0, totalTime);
+            var totalTime = new TimeSpan(0, 0, totalSeconds);
 
-            Console.WriteLine(time.ToString(@"d\:hh\:mm\:ss"));
+            Console.WriteLine(totalTime.ToString(@"d\:hh\:mm\:ss"));
         }
     }
 }
