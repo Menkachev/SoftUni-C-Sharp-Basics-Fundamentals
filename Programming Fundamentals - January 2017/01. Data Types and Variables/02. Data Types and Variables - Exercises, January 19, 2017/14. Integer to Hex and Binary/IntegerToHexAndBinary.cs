@@ -6,6 +6,8 @@
     {
         //// Create a program to convert a decimal number to hexadecimal and binary number and print it.
 
+        //// Example: Input: 420 -> Output: 1A4, 110100100
+
         public static void Main()
         {
             int number = int.Parse(Console.ReadLine());

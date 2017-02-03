@@ -6,6 +6,8 @@
     {
         //// Create a program to check if given symbol is digit, vowel or any other symbol.
 
+        //// Example: Input: a -> Output: vowel,  Input: 9 -> Output: digit
+
         public static void Main()
         {
             char input = char.Parse(Console.ReadLine());

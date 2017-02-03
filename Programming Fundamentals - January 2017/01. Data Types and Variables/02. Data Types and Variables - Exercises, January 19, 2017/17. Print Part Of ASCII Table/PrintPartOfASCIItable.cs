@@ -9,6 +9,8 @@
         //// On the first line of input you will receive the char index you should start with and 
         //// on the second line - the index of the last character you should print.
 
+        //// Example: Input: 60, 65 -> Output: < = > ? @ A
+
         public static void Main()
         {
             int startNumber = int.Parse(Console.ReadLine());

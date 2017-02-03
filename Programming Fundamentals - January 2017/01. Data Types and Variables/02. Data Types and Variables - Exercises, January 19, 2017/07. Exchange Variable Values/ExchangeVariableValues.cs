@@ -8,6 +8,13 @@
         //// and after that exchange their values by using some programming logic.
         //// Print the variable values before and after the exchange.
 
+        //// Example: Input: 5 -> Output: Before:
+        ////                10            a = 5
+        ////                              b = 10
+        ////                              After:
+        ////                              a = 10
+        ////                              b = 5
+
         public static void Main()
         {
             //// Before the exchange.

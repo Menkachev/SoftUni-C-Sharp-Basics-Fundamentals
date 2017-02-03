@@ -25,6 +25,8 @@
         //// Your task is: based on this input to display total time needed for her to be ready 
         //// with the pictures in given below format.
 
+        //// Example: Input: 1000, 1, 50, 1 -> Output: 0:00:25:00
+
         public static void Main()
         {
             int takenPictures = int.Parse(Console.ReadLine());

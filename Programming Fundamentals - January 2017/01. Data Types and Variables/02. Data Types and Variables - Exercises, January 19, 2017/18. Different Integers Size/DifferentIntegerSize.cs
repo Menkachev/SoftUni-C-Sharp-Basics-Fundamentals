@@ -8,6 +8,8 @@
         //// Given an input integer, you must determine which primitive data types 
         //// are capable of properly storing that input.
 
+        //// Example: Input: -150 -> Output: -150 can fit in: * short, * int, * long
+
         public static void Main()
         {
             BigInteger num = BigInteger.Parse(Console.ReadLine());

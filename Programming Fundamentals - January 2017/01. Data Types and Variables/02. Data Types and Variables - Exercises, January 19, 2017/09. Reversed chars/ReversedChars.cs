@@ -6,6 +6,8 @@
     {
         //// Write a program to ask the user for 3 letters and print them in reversed order.
 
+        //// Example: Input: x Y z -> Output: z Y x
+
         public static void Main()
         {
             var firstLetter = char.Parse(Console.ReadLine());

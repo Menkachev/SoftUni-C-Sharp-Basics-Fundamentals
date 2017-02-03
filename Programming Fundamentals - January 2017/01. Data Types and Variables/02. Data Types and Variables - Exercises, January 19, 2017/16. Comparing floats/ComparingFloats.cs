@@ -10,6 +10,8 @@
         //// of the floating-point arithmetic.Therefore, we assume two numbers are equal 
         //// if they are more closely to each other than some fixed constant eps. 
 
+        //// Example: Input: 5.3, 6.1 -> Output: False  Explanation: The difference of 0.71 is too big (> eps)
+
         public static void Main()
         {
             double numberA = double.Parse(Console.ReadLine());

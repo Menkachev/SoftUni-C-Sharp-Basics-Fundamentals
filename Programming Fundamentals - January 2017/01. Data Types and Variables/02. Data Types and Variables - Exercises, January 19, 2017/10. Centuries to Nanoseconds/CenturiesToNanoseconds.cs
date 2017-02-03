@@ -7,6 +7,10 @@
         //// Write program to enter an integer number of centuries and convert it to 
         //// years, days, hours, minutes, seconds, milliseconds, microseconds, nanoseconds.
 
+        //// Example: Input: 1 -> Output: 1 centuries = 100 years = 36524 days = 876576 hours 
+        ////                              = 52594560 minutes = 3155673600 seconds = 3155673600000 milliseconds 
+        ////                              = 3155673600000000 microseconds = 3155673600000000000 nanoseconds
+
         public static void Main()
         {
             int centuries = int.Parse(Console.ReadLine());

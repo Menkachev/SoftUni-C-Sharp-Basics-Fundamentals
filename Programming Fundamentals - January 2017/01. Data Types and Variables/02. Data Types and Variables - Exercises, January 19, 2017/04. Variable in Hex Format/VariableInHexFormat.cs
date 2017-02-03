@@ -7,6 +7,8 @@
         //// Write a program that reads a number in hexadecimal format(0x##). 
         //// Convert it to decimal format and prints it.
 
+        //// Example: Input: 0xFE -> Output: 254
+
         public static void Main()
         {
             string input = Console.ReadLine();

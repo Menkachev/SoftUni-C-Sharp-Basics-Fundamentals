@@ -6,7 +6,15 @@
     {
         //// Create a program to ask the user for a distance(in meters) and the time taken
         //// (as three numbers: hours, minutes, seconds), and print the speed, in meters per second, 
-        //// kilometers per hour and miles per hour.
+        //// kilometers per hour and miles per hour.  
+        //// Every number in the output should be precise up to 6 digits after the floating point.
+        //// Assume 1 mile = 1609 meters.
+
+        //// Example: Input: 1000 -> Output: 0.2732241
+        ////                 1               0.9836066
+        ////                 1               0.6113155
+        ////                 0
+
 
         public static void Main()
         {
