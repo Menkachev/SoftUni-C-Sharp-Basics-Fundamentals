@@ -5,10 +5,11 @@
     public class LastKNumbersSums
     {
         //// Enter two integers "n" and "k".Generate and print the following sequence of "n" elements:
-        ////   The first element is: 1
-        ////   All other elements = sum of the previous k elements(if less than k are available, sum all of them)
-        ////   Example: n = 9, k = 5  120 = 4 + 8 + 16 + 31 + 61
-        
+        ////  The first element is: 1
+        ////  All other elements = sum of the previous k elements(if less than k are available, sum all of them)
+
+        //// Example: Input: n = 9, k = 5 -> Output: 1 1 2 4 8 16 31 61 120 (120 = 4 + 8 + 16 + 31 + 61)
+
         public static void Main()
         {
             int n = int.Parse(Console.ReadLine());

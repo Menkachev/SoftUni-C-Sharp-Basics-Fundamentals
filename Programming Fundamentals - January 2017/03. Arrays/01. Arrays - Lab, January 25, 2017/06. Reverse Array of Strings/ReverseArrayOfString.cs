@@ -9,6 +9,8 @@
         //// The input consists of a sequence of space separated strings.
         //// Print the output on a single line (space separated).
 
+        //// Example: Input: a b c d e -> Output: e d c b a
+
         public static void Main()
         {
             var elements = Console.ReadLine().Split();

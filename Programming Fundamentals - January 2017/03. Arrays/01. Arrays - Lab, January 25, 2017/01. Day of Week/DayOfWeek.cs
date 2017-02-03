@@ -7,6 +7,8 @@
         //// Enter a day number[1…7] and print the day name(in English) or “Invalid Day!”. 
         //// Use an array of strings.
 
+        //// Example: Input: 1 -> Output: Monday; Input: 2 -> Output: Tuesday; Input: 0 -> Output: Invalid Day!
+
         public static void Main()
         {
             var daysOfWeek = new string[]

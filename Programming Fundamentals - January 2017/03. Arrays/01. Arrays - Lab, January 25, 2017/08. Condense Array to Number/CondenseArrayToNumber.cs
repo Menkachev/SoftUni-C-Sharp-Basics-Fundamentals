@@ -10,7 +10,9 @@
         //// {2, 10, 3}, we sum the first two and the second two elements and obtain {2+10, 10+3} = { 12, 13 },
         //// then we sum again all adjacent elements and obtain {12+13} = {25}. 
 
-        public static void Main()
+        //// Example: Input: 2 10 3 -> Output: 25  comments: 2 10 3 -> 2+10 10+3 -> 12 13 -> 12 + 13 -> 25
+
+        public static void Main() 
         {
             var nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
 

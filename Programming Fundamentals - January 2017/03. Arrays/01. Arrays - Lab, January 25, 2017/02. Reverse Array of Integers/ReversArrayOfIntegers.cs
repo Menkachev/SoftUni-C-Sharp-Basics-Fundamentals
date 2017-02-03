@@ -8,6 +8,8 @@
         //// The input consists of a number "n" (the number of elements) + n integers,
         //// each as a separate line. Print the output on a single line (space separated).
 
+        //// Example: 3  10 20 30 -> Output: 30 20 10
+
         public static void Main()
         {
             int number = int.Parse(Console.ReadLine());
