@@ -8,7 +8,9 @@
     {
         //// Read a list of integers and extract all square numbers from it 
         //// and print them in descending order.A square number is an integer which 
-        //// is the square of any integer.For example, 1, 4, 9, 16 are square numbers.
+        //// is the square of any integer. For example, 1, 4, 9, 16 are square numbers.
+
+        //// Example: Input: 3 16 4 5 6 8 9  -> Output: 16 9 4
 
         public static void Main()
         {

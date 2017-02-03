@@ -6,7 +6,7 @@
     public class SortNumbers
     {
         //// Read a list of decimal numbers and sort them in increasing order.
-        //// Print the output as shown in the examples below.
+        //// Example: Input: 8 25 2 11 -> Output: 2 <= 8 <= 11 <= 25
 
         public static void Main()
         {

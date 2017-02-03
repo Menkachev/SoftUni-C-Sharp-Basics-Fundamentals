@@ -7,11 +7,13 @@
     public class SplitByWordCasing
     {
         //// Read a text, split it into words and distribute them into 3 lists.
-        ////    Lower-case words like “programming”, “at” and “databases” – consist of lowercase letters only.
-        ////    Upper-case words like “PHP”, “JS” and “SQL” – consist of uppercase letters only.
-        ////    Mixed-case words like “C#”, “SoftUni” and “Java” – all others.
+
+        ////    "Lower-case" words like “programming”, “at” and “databases” – consist of lowercase letters only.
+        ////    "Mixed-case" words like “C#”, “SoftUni” and “Java” – all others.
+        ////    "Upper-case" words like “PHP”, “JS” and “SQL” – consist of uppercase letters only.
+
         //// Use the following separators between the words: , ; : . ! ( ) " ' \ / [ ] space
-        
+
         public static void Main()
         {
             //// Separators: , ; : . ! ( ) " ' \ / [ ]

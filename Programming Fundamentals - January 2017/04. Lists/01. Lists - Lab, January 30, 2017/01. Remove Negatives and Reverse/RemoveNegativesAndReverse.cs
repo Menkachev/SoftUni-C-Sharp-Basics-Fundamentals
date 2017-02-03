@@ -9,6 +9,8 @@
         //// and print the remaining elements in reversed order. In case of 
         //// no elements left in the list, print “empty”.
 
+        //// Example: Input: 7 -2 -10 1 -> Output: 1 7
+
         public static void Main()
         {
             var number = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
