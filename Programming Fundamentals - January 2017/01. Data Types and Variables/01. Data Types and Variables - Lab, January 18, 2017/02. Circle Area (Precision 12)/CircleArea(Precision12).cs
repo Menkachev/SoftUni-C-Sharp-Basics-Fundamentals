@@ -4,8 +4,10 @@
 
     public class CircleAreaPrecision12
     {
-        //// Write program to enter a radius r(real number) and print the area of the circle with 
-        //// exactly 12 digits after the decimal point.Use data type of enough precision to hold the results.
+        //// Write program to enter a radius "r" (real number) and print the area of the circle with 
+        //// exactly 12 digits after the decimal point. Use data type of enough precision to hold the results.
+
+        //// Example: Input: 2.5 -> Output: 19.634954084936
 
         public static void Main()
         {

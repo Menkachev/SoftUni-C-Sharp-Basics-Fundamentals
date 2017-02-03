@@ -4,7 +4,9 @@
 
     public class ExactSumOfRealNumbers
     {
-        //// Write program to enter n numbers and calculate and print their exact sum(without rounding).
+        //// Write program to enter "n" numbers and calculate and print their exact sum (without rounding).
+
+        //// Example: Input: 3  1000, 5, 10 -> Output: 1015
 
         public static void Main()
         {

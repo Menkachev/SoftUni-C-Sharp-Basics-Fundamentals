@@ -4,8 +4,10 @@
 
     public class CenturiesToMinutes
     {
-        //// Write program to enter an integer number of centuries and convert it to years, days, 
-        //// hours and minutes.
+        //// Write program to enter an integer number of centuries and convert it to 
+        //// years, days, hours and minutes.
+
+        //// Example: Input: 1 -> Output: 1 centuries = 100 years = 36524 days = 876576 hours = 52594560 minutes
 
         public static void Main(string[] args)
         {
