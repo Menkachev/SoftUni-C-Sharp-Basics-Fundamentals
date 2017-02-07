@@ -1,3 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\1-100\bin\Debug\1-100.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\1-100\obj\Debug\1-100.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\1-100\obj\Debug\1-100.pdb

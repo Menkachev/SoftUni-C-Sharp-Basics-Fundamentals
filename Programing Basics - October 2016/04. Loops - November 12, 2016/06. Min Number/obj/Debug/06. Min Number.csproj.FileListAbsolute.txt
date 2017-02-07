@@ -1,6 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\bin\Debug\_06.Min_Number.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\bin\Debug\_06.Min_Number.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\bin\Debug\_06.Min_Number.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\obj\Debug\06. Min Number.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\obj\Debug\_06.Min_Number.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\06. Min Number\obj\Debug\_06.Min_Number.pdb

@@ -1,6 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\bin\Debug\Lili.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\bin\Debug\Lili.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\bin\Debug\Lili.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\obj\Debug\Lili.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\obj\Debug\Lili.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Lili\obj\Debug\Lili.pdb

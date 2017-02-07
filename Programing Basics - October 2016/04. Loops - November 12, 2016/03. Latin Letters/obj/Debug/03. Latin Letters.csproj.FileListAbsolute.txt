@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2015\Projects\Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\03. Latin Letters\obj\Debug\03. Latin Letters.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb
