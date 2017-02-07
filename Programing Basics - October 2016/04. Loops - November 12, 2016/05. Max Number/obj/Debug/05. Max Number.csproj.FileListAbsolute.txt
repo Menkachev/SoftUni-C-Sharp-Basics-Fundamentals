@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\05. Max Number\bin\Debug\_05.Max_Number.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\05. Max Number\bin\Debug\_05.Max_Number.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\05. Max Number\bin\Debug\_05.Max_Number.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\05. Max Number\obj\Debug\_05.Max_Number.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\05. Max Number\obj\Debug\_05.Max_Number.pdb

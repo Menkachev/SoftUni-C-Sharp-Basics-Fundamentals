@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.pdb

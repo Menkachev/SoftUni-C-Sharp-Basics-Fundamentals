@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\04. Histogram\bin\Debug\_04.Histogram.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\04. Histogram\obj\Debug\_04.Histogram.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Loops\04. Histogram\obj\Debug\_04.Histogram.pdb
