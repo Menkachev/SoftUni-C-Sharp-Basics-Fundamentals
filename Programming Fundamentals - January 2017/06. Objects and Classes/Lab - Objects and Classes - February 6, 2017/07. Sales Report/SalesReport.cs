@@ -31,26 +31,26 @@
 
                 //// Save the new "currentSale" in a List!
                 sales.Add(currentSale);
+            }
 
-                //// New Dictionary to check if each part is in!
-                var result = new SortedDictionary<string, double>();
+            //// New Dictionary to check if each part is in!
+            var result = new SortedDictionary<string, double>();
 
-                foreach (var sale in sales)
+            foreach (var sale in sales)
+            {
+                if (!result.ContainsKey(sale.Town))
                 {
-                    if (!result.ContainsKey(sale.Town))
-                    {
-                        result[sale.Town] = 0;
-                    }
-
-                    //// Value "Town" in Key "sale" from Dictionary "result" is:
-                    result[sale.Town] += sale.Price * sale.Quantity;
+                    result[sale.Town] = 0;
                 }
 
-                //// Read each Key and Value from the Dictionary for each town.
-                foreach (var keyValuePair in result)
-                {
-                    Console.WriteLine($"{keyValuePair.Key} -> {keyValuePair.Value:f2}");
-                }
+                //// Value "Town" in Key "sale" from Dictionary "result" is:
+                result[sale.Town] += sale.Price * sale.Quantity;
+            }
+
+            //// Read each Key and Value from the Dictionary for each town.
+            foreach (var keyValuePair in result)
+            {
+                Console.WriteLine($"{keyValuePair.Key} -> {keyValuePair.Value:f2}");
             }
         }
 
