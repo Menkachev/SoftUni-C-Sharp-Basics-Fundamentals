@@ -27,6 +27,8 @@
 
             var result = new Dictionary<string, int>();
 
+            //// Nested loop in order to: first read all words from the console;
+            //// second is to check how many times the current word repeat in the text.
             for (int i = 0; i < words.Count; i++)
             {
                 var currentWord = words[i];

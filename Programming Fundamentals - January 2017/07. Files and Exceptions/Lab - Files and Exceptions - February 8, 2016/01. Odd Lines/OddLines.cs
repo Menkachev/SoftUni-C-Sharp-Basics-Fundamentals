@@ -17,6 +17,7 @@
 
             var oddLines = new List<string>();
 
+            //// Finds the odd lins and put them in the List.
             for (int i = 0; i < lines.Length; i++)
             {
                 if (i % 2 != 0)
@@ -25,6 +26,7 @@
                 }
             }
 
+            //// Creates a new txt file with the odd lines in it.
             File.WriteAllLines("result.txt", oddLines);
 
             foreach (var line in oddLines)
