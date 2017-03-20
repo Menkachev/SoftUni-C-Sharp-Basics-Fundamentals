@@ -15,8 +15,6 @@
 
         public static void Main()
         {
-            //// NOT FINISHED!
-
             var n = int.Parse(Console.ReadLine());
             
             //// Upper part.
