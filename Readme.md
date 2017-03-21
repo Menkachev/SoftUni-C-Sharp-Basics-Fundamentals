@@ -26,25 +26,28 @@
 <p><a title="Programming Basics" href="">Certificate</a></p>
 </th></tr>
 <tr>
- <td colspan="2"><p><a title="Simple Calculations" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/01.%20Simple%20Calculations%20-%20October%2022%2C%202016">Simple Calculations</a></p></td>
+ <td colspan="2"><p><a title="01. Simple Calculations" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/01.%20Simple%20Calculations%20-%20October%2022%2C%202016">Simple Calculations</a></p></td>
 </tr>
   <tr>
- <td colspan="2"><p><a title="Simple Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/02.%20Simple%20Conditions%20-%20October%2029%2C%202016">Simple Conditions</a></p></td>
+ <td colspan="2"><p><a title="02. Simple Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/02.%20Simple%20Conditions%20-%20October%2029%2C%202016">Simple Conditions</a></p></td>
 </tr>
     <tr>
- <td colspan="2"><p><a title="Complex Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/03.%20Complex%20Conditions%20-%20November%205%2C%202016">Complex Conditions</a></p></td>
+ <td colspan="2"><p><a title="03. Complex Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/03.%20Complex%20Conditions%20-%20November%205%2C%202016">Complex Conditions</a></p></td>
 </tr>
       <tr>
- <td colspan="2"><p><a title="Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/04.%20Loops%20-%20November%2012%2C%202016">Loops</a></p></td>
+ <td colspan="2"><p><a title="04. Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/04.%20Loops%20-%20November%2012%2C%202016">Loops</a></p></td>
 </tr>
         <tr>
- <td colspan="2"><p><a title="Drawing With Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/05.%20Drawning%20With%20Loops%20-%20November%2019%2C%202016">Drawing With Loops</a></p></td>
+ <td colspan="2"><p><a title="05. Drawing With Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/05.%20Drawning%20With%20Loops%20-%20November%2019%2C%202016">Drawing With Loops</a></p></td>
+</tr>
+<tr>
+ <td colspan="2"><p><a title="06. Advanced Loops" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/06.%20Advanced%20Loops%20-%20November%2026%2C%202016">Advanced Loops</a></p></td>
 </tr>
           <tr>
  <td colspan="2"><p><a title="Exam Preparation" href="">Exam Preparation</a></p></td>
 </tr>
             <tr>
- <td colspan="2"><p><a title="Practical Entrance Exam" href="">Practical Entrance Exam</a></p></td>
+ <td colspan="2"><p><a title="Practical Exam" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/Proctical%20Exam%20-%2019.03.2017">Practical Exam 19/03/2017</a></p></td>
 </tr>
 </tbody>
 </table>
