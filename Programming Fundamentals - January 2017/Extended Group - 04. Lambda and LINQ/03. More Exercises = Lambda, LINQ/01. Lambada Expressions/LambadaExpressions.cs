@@ -17,7 +17,7 @@
                 string[] inputParams = inputLine
                     .Split(new[] { ' ', '=', '>', '.' }, StringSplitOptions.RemoveEmptyEntries);
 
-                if (inputParams.Length > 1)
+                if (inputParams.Length > 1) // The length > 1, because 'dance' will be read as a single char.
                 {
                     string selector = inputParams[0];
                     string selectorObject = inputParams[1];
@@ -30,12 +30,13 @@
 
                     lambadaExpressions[selector][selectorObject] = property;
                 }
-                else
+                else // If we have "dance".
                 {
-                    lambadaExpressions = lambadaExpressions
-                        .ToDictionary(selector => selector.Key, selector => selector.Value
-                        .ToDictionary(selectorObject => selectorObject.Key,
-                        selectorObject => selectorObject.Key + "." + selectorObject.Value));
+                    lambadaExpressions = lambadaExpressions // Will change the expressions
+                        .ToDictionary(selector => selector.Key, selector => selector.Value // For each Key, takes key's key & value.
+                        .ToDictionary(selectorObject => selectorObject.Key, // Change the value -> takes value's key...
+                        selectorObject => selectorObject.Key + "." + selectorObject.Value)); // and for value's value concatenate 
+                    //                                                                          value's key + "." + value's value.
                 }
 
                     inputLine = Console.ReadLine();
@@ -46,7 +47,7 @@
                 .ForEach(selector => selector.Value
                 .ToList()
                 .ForEach(selectorObject => Console.WriteLine(
-                    "{0} -> {1}.{2}",
+                    "{0} => {1}.{2}",
                 selector.Key,
                 selectorObject.Key,
                 selectorObject.Value)));

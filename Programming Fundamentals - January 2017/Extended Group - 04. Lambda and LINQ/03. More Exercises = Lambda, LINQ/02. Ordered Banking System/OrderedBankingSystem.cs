@@ -39,7 +39,7 @@
 
              bankingSystem
                 .OrderByDescending(bank => bank.Value.Sum(account => account.Value)) //BANKS by the sum of all account balances.
-                .ThenByDescending(bank => bank.Value.Max(account => account.Value)) //The bank with the highest maximum balance in its accounts.
+                .ThenByDescending(bank => bank.Value.Max(account => account.Value)) //The bank with highest maximum balance in its accounts.
                 .ToList()
                 .ForEach(bank => bank.Value
                 .OrderByDescending(account => account.Value) // Bank’s accounts ordered in descending order, by their balance.
