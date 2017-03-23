@@ -36,13 +36,13 @@
                     string key = inputParams[1]; // The key is [1], because now "flatten" is [0].
 
                     dictionary[key] = dictionary[key]
-                        .ToDictionary(x => x.Key + x.Value, x => "flatten");
+                        .ToDictionary(x => x.Key + x.Value, x => "flatten"); // Concatenate the key and the value with "+".
                 }
 
                 inputLine = Console.ReadLine();
             }
 
-            Dictionary<string, Dictionary<string, string>> orderedDictionary = dictionary // Dictionary to order the key by decending of their length.
+            Dictionary<string, Dictionary<string, string>> orderedDictionary = dictionary // Order the key by decending of their length.
                 .OrderByDescending(d => d.Key.Length) 
                 .ToDictionary(x => x.Key, x => x.Value);
 

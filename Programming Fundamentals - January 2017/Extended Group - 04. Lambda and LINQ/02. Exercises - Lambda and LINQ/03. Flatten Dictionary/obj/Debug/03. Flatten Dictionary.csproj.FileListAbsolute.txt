@@ -1,6 +1,0 @@
-c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\bin\Debug\_03.Flatten_Dictionary.exe.config
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\bin\Debug\_03.Flatten_Dictionary.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\bin\Debug\_03.Flatten_Dictionary.pdb
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\obj\Debug\03. Flatten Dictionary.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\obj\Debug\_03.Flatten_Dictionary.exe
-C:\Users\Admin\Documents\Visual Studio 2015\Projects\Extended Lambda and LINQ - Exercises\03. Flatten Dictionary\obj\Debug\_03.Flatten_Dictionary.pdb
