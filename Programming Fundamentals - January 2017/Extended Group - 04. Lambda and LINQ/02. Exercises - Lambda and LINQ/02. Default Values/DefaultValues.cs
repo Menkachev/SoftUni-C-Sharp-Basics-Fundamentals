@@ -25,7 +25,7 @@
                 inputLine = Console.ReadLine();
             }
 
-            string defaultValue = Console.ReadLine();
+            string defaultValue = Console.ReadLine(); 
 
             pairs
                 .Where(x => x.Value != "null")
@@ -35,7 +35,7 @@
 
             pairs
                 .Where(x => x.Value == "null")
-                .Select(x => x.Key + " <-> " + defaultValue)
+                .Select(x => x.Key + " <-> " + defaultValue) // Replaced with the default value.
                 .ToList()
                 .ForEach(Console.WriteLine);
         }

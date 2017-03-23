@@ -29,14 +29,11 @@
                         dictionary[key] = new Dictionary<string, string>();
                     }
 
-                    if (!dictionary[key].ContainsKey(innerKey))
-                    {
-                        dictionary[key][innerKey] = innerKey;
-                    }
+                        dictionary[key][innerKey] = innerValue;
                 }
                 else
                 {
-                    string key = inputParams[1];
+                    string key = inputParams[1]; // The key is [1], because now "flatten" is [0].
 
                     dictionary[key] = dictionary[key]
                         .ToDictionary(x => x.Key + x.Value, x => "flatten");
@@ -45,17 +42,17 @@
                 inputLine = Console.ReadLine();
             }
 
-            Dictionary<string, Dictionary<string, string>> orderedDictionary = dictionary
-                .OrderByDescending(d => d.Key.Length)
+            Dictionary<string, Dictionary<string, string>> orderedDictionary = dictionary // Dictionary to order the key by decending of their length.
+                .OrderByDescending(d => d.Key.Length) 
                 .ToDictionary(x => x.Key, x => x.Value);
 
             foreach (var key in orderedDictionary)
             {
-                Console.WriteLine("{0}", key.Key);
+                Console.WriteLine("{0}", key.Key); // Print the key.
 
-                Dictionary<string, string> orderedInnerDictionary = key.Value
+                Dictionary<string, string> orderedInnerDictionary = key.Value 
                     .Where(x => x.Value != "flatten")
-                    .OrderBy(x => x.Key.Length)
+                    .OrderBy(x => x.Key.Length) // Inner Key ordered by ascending of their length.
                     .ToDictionary(x => x.Key, x => x.Value);
 
                 Dictionary<string, string> flattenedValues = key.Value

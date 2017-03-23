@@ -28,9 +28,9 @@
 
             Dictionary<string, DateTime> orderedUsersList = registeredUsers
                 .Reverse()
-                .OrderBy(u => u.Value)
-                .Take(5)
-                .OrderByDescending(u => u.Value)
+                .OrderBy(u => u.Value) // Date of registry.
+                .Take(5) // The Last 5 registered or in other words the OLDEST registered users.
+                .OrderByDescending(u => u.Value) // From the latest registered, to the oldest registered.
                 .ToDictionary(u => u.Key, u => u.Value);
 
             foreach (var user in orderedUsersList)
