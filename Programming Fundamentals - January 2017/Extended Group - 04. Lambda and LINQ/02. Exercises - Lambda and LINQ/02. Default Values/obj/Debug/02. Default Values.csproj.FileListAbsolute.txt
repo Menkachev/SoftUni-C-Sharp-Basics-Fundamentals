@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.exe
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\bin\Debug\_02.Default_Values.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\obj\Debug\02. Default Values.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\obj\Debug\_02.Default_Values.exe
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\02. Default Values\obj\Debug\_02.Default_Values.pdb

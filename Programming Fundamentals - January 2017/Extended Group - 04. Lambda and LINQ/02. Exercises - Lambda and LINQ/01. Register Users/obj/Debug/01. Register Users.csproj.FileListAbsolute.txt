@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\bin\Debug\_01.Register_Users.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\bin\Debug\_01.Register_Users.exe
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\bin\Debug\_01.Register_Users.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\obj\Debug\01. Register Users.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\obj\Debug\_01.Register_Users.exe
+c:\users\admin\documents\visual studio 2015\Projects\Extended Lambda and LINQ - Exercises\01. Register Users\obj\Debug\_01.Register_Users.pdb
