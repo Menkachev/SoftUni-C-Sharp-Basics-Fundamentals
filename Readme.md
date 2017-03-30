@@ -10,7 +10,7 @@
 <h1><a id="user-content-softuni" class="anchor" href="#softuni" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://softuni.bg/">SoftUni</a></h1>
 <h2><a id="user-content-c" class="anchor" href="#c" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>C#</h2>
 <h2><a id="user-content-java" class="anchor" href="#java" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Java</h2>
-<h2><a id="user-content-javascript" class="anchor" href="#javascript" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Javascript</h2>
+<h2><a id="user-content-javascript" class="anchor" href="#javascript" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Java Script</h2>
 <h2><a id="user-content-php" class="anchor" href="#php" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>PHP</h2>
 </td>
 <td align="center" width="33%"><a href="https://avatars1.githubusercontent.com/u/24620088?v=3&amp;u=5e1a11ac5228356808410702d2f8c5ff3209d2a9&amp;s=400" target="_blank"><img src="https://avatars1.githubusercontent.com/u/24511155?v=3&s=460" alt="" style="max-width:100%;"></a>
@@ -22,26 +22,26 @@
 <hr>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="left"><strong>Programming Basics - September 2016</strong>: <br>17.09.2016 - 20.11.2016<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
-<p><a title="Programming Basics" href="">Certificate</a></p>
+<tr><th align="left"><strong>Programming Basics - September 2016</strong>: <br>17.09.2016 - 20.11.2016<br><br> Grade: 6.00 (out of 6.00)<br> Issue Date: 21/03/2017</th><th align="left">
+<p><a title="Programming Basics" href="https://softuni.bg/certificates/details/17899/bff79b31">Certificate</a></p>
 </th></tr>
 <tr>
- <td colspan="2"><p><a title="01. Simple Calculations" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/01.%20Simple%20Calculations%20-%20October%2022%2C%202016">Simple Calculations</a></p></td>
+ <td colspan="2"><p><a title="01. Simple Calculations" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/01.%20Simple%20Calculations%20-%20October%2022%2C%202016">01. Simple Calculations</a></p></td>
 </tr>
   <tr>
- <td colspan="2"><p><a title="02. Simple Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/02.%20Simple%20Conditions%20-%20October%2029%2C%202016">Simple Conditions</a></p></td>
+ <td colspan="2"><p><a title="02. Logical Checks" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/02.%20Simple%20Conditions%20-%20October%2029%2C%202016">02. Logical Checks</a></p></td>
 </tr>
     <tr>
- <td colspan="2"><p><a title="03. Complex Conditions" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/03.%20Complex%20Conditions%20-%20November%205%2C%202016">Complex Conditions</a></p></td>
+ <td colspan="2"><p><a title="03. More complex logical checks" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/03.%20Complex%20Conditions%20-%20November%205%2C%202016">03. More Complex Logical Checks</a></p></td>
 </tr>
       <tr>
- <td colspan="2"><p><a title="04. Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/04.%20Loops%20-%20November%2012%2C%202016">Loops</a></p></td>
+ <td colspan="2"><p><a title="04. Repeats (Loops)" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/04.%20Loops%20-%20November%2012%2C%202016">04. Repeats (Loops)</a></p></td>
 </tr>
         <tr>
- <td colspan="2"><p><a title="05. Drawing With Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/05.%20Drawning%20With%20Loops%20-%20November%2019%2C%202016">Drawing With Loops</a></p></td>
+ <td colspan="2"><p><a title="05. Drawing Shapes With Loops" href="https://github.com/Menkachev/Software-University/tree/master/Programing%20Basics%20-%20October%202016/05.%20Drawning%20With%20Loops%20-%20November%2019%2C%202016">05. Drawing Shapes With Loops</a></p></td>
 </tr>
 <tr>
- <td colspan="2"><p><a title="06. Advanced Loops" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/06.%20Advanced%20Loops%20-%20November%2026%2C%202016">Advanced Loops</a></p></td>
+ <td colspan="2"><p><a title="06. Advanced Loops" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/06.%20Advanced%20Loops%20-%20November%2026%2C%202016">06. Advanced Loops</a></p></td>
 </tr>
           <tr>
  <td colspan="2"><p><a title="Exam Preparation" href="">Exam Preparation</a></p></td>
