@@ -44,7 +44,7 @@
  <td colspan="2"><p><a title="06. Advanced Loops" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/06.%20Advanced%20Loops%20-%20November%2026%2C%202016">06. Advanced Loops</a></p></td>
 </tr>
           <tr>
- <td colspan="2"><p><a title="Exam Preparation" href="">Exam Preparation</a></p></td>
+ <td colspan="2"><p><a title="Exam Preparation" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/Exam%20Preparation">Exam Preparation</a></p></td>
 </tr>
             <tr>
  <td colspan="2"><p><a title="Practical Exam" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programing%20Basics%20-%20October%202016/Proctical%20Exam%20-%2019.03.2017">Practical Exam 19/03/2017</a></p></td>
