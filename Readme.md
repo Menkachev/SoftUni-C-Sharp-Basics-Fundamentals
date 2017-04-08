@@ -38,9 +38,6 @@
 </div>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="left"><strong>Programming Basics - September 2016</strong>: <br>17.09.2016 - 20.11.2016<br><br> Grade: 6.00 (out of 6.00)<br> Issue Date: 21/03/2017</th><th align="left">
@@ -73,9 +70,6 @@
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div style="float: left">
@@ -98,9 +92,6 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 </div>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="left"><strong>Programming Fundamentals - January 2017</strong>: <br>16.01.2017 - 10.03.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
@@ -154,9 +145,6 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 </hr>
