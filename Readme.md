@@ -20,9 +20,6 @@
 <hr>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr>
@@ -38,9 +35,6 @@
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div style="float: left">
