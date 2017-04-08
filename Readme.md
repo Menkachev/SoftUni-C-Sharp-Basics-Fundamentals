@@ -152,6 +152,9 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 <tr>
  <td colspan="2"><p><a title="Exam Preparation IV" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/Exam%20Preparation%20IV">Exam Preparation IV</a></p></td>
 </tr>
+ <tr>
+ <td colspan="2"><p><a title="Extended Group - Exercises" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Programming%20Fundamentals%20-%20January%202017/Extended%20Group%20-%20Exercises">Extended Group - Exercises</a></p></td>
+</tr>
             <tr>
  <td colspan="2"><p><a title="Practical Exam" href="">Practical Exam //2017</a></p></td>
 </tr>
