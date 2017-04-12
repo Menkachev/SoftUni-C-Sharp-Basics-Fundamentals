@@ -20,9 +20,6 @@
 <hr>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr>
@@ -38,15 +35,9 @@
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="left"><strong>Programming Basics - September 2016</strong>: <br>17.09.2016 - 20.11.2016<br><br> Grade: 6.00 (out of 6.00)<br> Issue Date: 21/03/2017</th><th align="left">
@@ -79,9 +70,6 @@
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div style="float: left">
@@ -104,9 +92,6 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 </div>
 
 <div style="float: left">
-  <table>
-    <tr>
-      <td>
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="left"><strong>Programming Fundamentals - January 2017</strong>: <br>16.01.2017 - 10.03.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
@@ -152,14 +137,14 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 <tr>
  <td colspan="2"><p><a title="Exam Preparation IV" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/Exam%20Preparation%20IV">Exam Preparation IV</a></p></td>
 </tr>
+ <tr>
+ <td colspan="2"><p><a title="Extended Group - Exercises" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Programming%20Fundamentals%20-%20January%202017/Extended%20Group%20-%20Exercises">Extended Group - Exercises</a></p></td>
+</tr>
             <tr>
  <td colspan="2"><p><a title="Practical Exam" href="">Practical Exam //2017</a></p></td>
 </tr>
 </tbody>
 </table>
-      </td>
-    </tr>
-  </table>
 </div>
 
 </hr>
