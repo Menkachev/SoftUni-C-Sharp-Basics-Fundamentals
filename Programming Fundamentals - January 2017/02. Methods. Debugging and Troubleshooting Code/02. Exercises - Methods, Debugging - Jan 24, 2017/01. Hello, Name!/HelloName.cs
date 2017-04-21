@@ -1,15 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Hello__Name_
+﻿namespace _01.Hello__Name_
 {
-    class Program
+    using System;
+
+    public class HelloName
     {
-        static void Main(string[] args)
+        // Write a method that receives a name as parameter and prints on the console “Hello, <name>!”
+
+        public static void Main()
         {
+            GreetingsByName(Console.ReadLine());
+        }
+
+        public static void GreetingsByName(string name)
+        {
+            Console.WriteLine("Hello, {0}!", name);
         }
     }
 }
