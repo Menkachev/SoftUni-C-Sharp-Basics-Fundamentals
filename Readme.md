@@ -94,7 +94,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 <div style="float: left">
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="left"><strong>Programming Fundamentals - January 2017</strong>: <br>16.01.2017 - 10.03.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
+<tr><th align="left"><strong>Programming Fundamentals - January 2017</strong>: <br>16.01.2017 - 26.02.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
 <p><a title="Programming Fundamentals" href="">Certificate</a></p>
 </th></tr>
 
@@ -102,7 +102,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
  <td colspan="2"><p><a title="01. Data Types and Variables" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/01.%20Data%20Types%20and%20Variables">01. Data Types and Variables</a></p></td>
 </tr>
   <tr>
- <td colspan="2"><p><a title="02. Methods. Debugging and Troubleshooting Code" href="">02. Methods. Debugging and Troubleshooting Code</a></p></td>
+ <td colspan="2"><p><a title="02. Methods. Debugging and Troubleshooting Code" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Programming%20Fundamentals%20-%20January%202017/02.%20Methods.%20Debugging%20and%20Troubleshooting%20Code">02. Methods. Debugging and Troubleshooting Code</a></p></td>
 </tr>
     <tr>
  <td colspan="2"><p><a title="03. Arrays" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/03.%20Arrays/01.%20Arrays%20-%20Lab%2C%20January%2025%2C%202017">03. Arrays</a></p></td>
@@ -143,6 +143,51 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
             <tr>
  <td colspan="2"><p><a title="Practical Exam" href="">Practical Exam //2017</a></p></td>
 </tr>
+</tbody>
+</table>
+</div>
+
+<div style="float: left">
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td>
+
+<article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content--programming-basics---september-2016" class="anchor" href="https://softuni.bg/trainings/1460/programming-basics-september-2016" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a id="user-content--programming-basics---september-2016" href="https://softuni.bg/trainings/1511/software-technologies-february-2017"></a><a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"><p align="center"> Software Technologies (HTML5 & CSS, PHP, JavaScript, Java, C#)</p><p></p></a></h1><a href="https://softuni.bg/trainings/1460/programming-basics-september-2016">
+</a>
+<hr>
+<p>The <strong>"Software Technologies"</strong> course provides initial knowledge of the most used software technologies in practice and allows students to orientate which technologies they like to study more thoroughly. The course consists of four parts: <strong>HTML5 development</strong> (HTML + CSS + JavaScript + AJAX + REST), <strong>PHP web development</strong> (PHP + MySQL), <strong>C# Web development</strong> (ASP.NET MVC + Entity Framework + SQL Server) and <strong>Java web development</strong> (Java + Spring MVC + Hibernate + MySQL).</p>
+</article>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div style="float: left">
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="left"><strong>Software Technologie - February 2017</strong>: <br>27.02.2017 - 29.04.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
+<p><a title="Programming Basics" href="https://softuni.bg/certificates/details/17899/bff79b31">Certificate</a></p>
+</th></tr>
+
+<tr>
+ <td colspan="2"><p><a title="01. HTML5 and CSS: Basic Tags, Basic Styling, Forms" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/01.%20HTML%20%26%20CSS%20Basics">01. HTML5 and CSS: Basic Tags, Basic Styling, Forms</a></p></td>
+</tr>
+  <tr>
+ <td colspan="2"><p><a title="02. PHP: Syntax, Basic Web" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/02.%20PHP">02. PHP: Syntax, Basic Web</a></p></td>
+</tr>
+    <tr>
+ <td colspan="2"><p><a title="03. JavaScript: Syntax, Basic Web" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/03.%20JavaScript">03. JavaScript: Syntax, Basic Web</a></p></td>
+</tr>
+      <tr>
+ <td colspan="2"><p><a title="04. Java: Syntax, Basic Web" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/04.%20Java">04. Java: Syntax, Basic Web</a></p></td>
+</tr>
+        <tr>
+ <td colspan="2"><p><a title="Teamwork - Practical Project" href="">Teamwork - Practical Project</a></p></td>
+</tr>
+
 </tbody>
 </table>
 </div>
