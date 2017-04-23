@@ -123,7 +123,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
  <td colspan="2"><p><a title="08. Strings" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/08.%20Strings/Lab%20-%20Strings%20-%20February%2013%2C%202017">08. Strings</a></p></td>
 </tr>
 <tr>
- <td colspan="2"><p><a title="09. Regex" href="">09. Regex</a></p></td>
+ <td colspan="2"><p><a title="09. Regex" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Programming%20Fundamentals%20-%20January%202017/09.%20Regex">09. Regex</a></p></td>
 </tr>
 <tr>
  <td colspan="2"><p><a title="Exam Preparation I" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/Exam%20Preparation%20I">Exam Preparation I</a></p></td>
@@ -185,7 +185,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
  <td colspan="2"><p><a title="04. Java: Syntax, Basic Web" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/04.%20Java">04. Java: Syntax, Basic Web</a></p></td>
 </tr>
         <tr>
- <td colspan="2"><p><a title="Teamwork - Practical Project" href="">Teamwork - Practical Project</a></p></td>
+ <td colspan="2"><p><a title="Teamwork - Practical Project" href="">Teamwork - Simple Blog(Practical Project - Java)</a></p></td>
 </tr>
 
 </tbody>
