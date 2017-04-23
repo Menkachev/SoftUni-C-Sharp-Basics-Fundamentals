@@ -1,68 +1,60 @@
-﻿namespace _05.User_Logins
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class UserLogins
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
-    public class UserLogins
+    public static void Main()
     {
-        public static void Main(string[] args)
+        var usersData = new Dictionary<string, string>();
+
+        while (true)
         {
-            var userEntries = new Dictionary<string, string>();
+            var inputLine = Console.ReadLine();
+            if (inputLine.Equals("login")) break;
 
-            var users = Console.ReadLine();
+            var userArgs = inputLine.Split(" -> ".ToCharArray());
+            var name = userArgs.First();
+            var password = userArgs.Last();
 
-            while (users != "login")
+            if (!usersData.ContainsKey(name))
             {
-                var line = users.Split();
-                var username = line[0];
-                var password = line[2];
-
-                if (userEntries.ContainsKey(username))
-                {
-                    userEntries[password] = password;
-                }
-
-                users = Console.ReadLine();
+                usersData.Add(name, string.Empty);
             }
 
-            users = Console.ReadLine();
-            while (users != "end")
-            {
-                var line = users.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-                var username = line[0];
-                var password = line[2];
-
-                if (!userEntries.ContainsValue(username))
-                {
-                    //if (userEntries.ContainsValue(password))
-                    //{
-                    //  Console.WriteLine($"{username}: login failed");
-                    //}
-                    //else
-                    //{
-                    Console.WriteLine($"{username}: login failed");
-                    //}
-                }
-                else
-                {
-                    Console.WriteLine($"{username}: logged in successfully");
-                }
-
-                users = Console.ReadLine();
-            }
-
-            Console.WriteLine();
-
-            //foreach (var userEntryPassword in userEntries)
-            //{
-            //    var user = userEntryPassword.Key;
-            //    var password = userEntryPassword.Value;
-
-            //    Console.WriteLine($"");
-            //}
+            usersData[name] = password;
         }
+        var count = 0;
+
+        while (true)
+        {
+            var inputLine = Console.ReadLine();
+            if (inputLine.Equals("end")) break;
+
+            var userArgs = inputLine.Split(" -> ".ToCharArray());
+            var name = userArgs.First();
+            var password = userArgs.Last();
+
+            bool isSuccessful = false;
+            if (usersData.ContainsKey(name))
+            {
+                if (usersData[name] == password)
+                {
+                    isSuccessfu = true;
+                }
+            }
+
+            if (!isSuccessfu)
+            {
+                Console.WriteLine($"{name}: login failed");
+                count++;
+            }
+            else
+            {
+                Console.WriteLine($"{name}: logged in successfully");
+            }
+        }
+
+        Console.WriteLine($"unsuccessful login attempts: {count}");
     }
 }
