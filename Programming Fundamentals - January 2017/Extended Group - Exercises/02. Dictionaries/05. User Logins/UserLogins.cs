@@ -35,7 +35,7 @@ public class UserLogins
             var name = userArgs.First();
             var password = userArgs.Last();
 
-            bool isSuccessful = false;
+            bool isSuccessfu = false;
             if (usersData.ContainsKey(name))
             {
                 if (usersData[name] == password)
