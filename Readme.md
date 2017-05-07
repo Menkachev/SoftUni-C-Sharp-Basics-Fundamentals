@@ -185,7 +185,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
  <td colspan="2"><p><a title="04. Java: Syntax, Basic Web" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Software%20Technologies/04.%20Java">04. Java: Syntax, Basic Web</a></p></td>
 </tr>
         <tr>
- <td colspan="2"><p><a title="Teamwork - Practical Project" href="">Teamwork - Simple Blog(Practical Project - Java)</a></p></td>
+ <td colspan="2"><p><a title="Teamwork - Practical Project" href="https://github.com/Menkachev/SoftUni-Software-Engineering/tree/master/Software%20Technologies/04.%20Java/03.%20Simple%20Blog">Practical Project - Simple Blog(Java)</a></p></td>
 </tr>
 
 </tbody>
