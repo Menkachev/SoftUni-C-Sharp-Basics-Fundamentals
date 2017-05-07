@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\Ivan\Documents\Exam - Fundamentals 30.04.2017\Problem 3\obj\Debug\Problem 3.pdb
