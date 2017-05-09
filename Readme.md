@@ -168,8 +168,8 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
 <div style="float: left">
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
-<tr><th align="left"><strong>Software Technologie - February 2017</strong>: <br>27.02.2017 - 29.04.2017<br><br> Grade: 0.00 (out of 6.00)<br> Issue Date: //2017</th><th align="left">
-<p><a title="Programming Basics" href="https://softuni.bg/certificates/details/17899/bff79b31">Certificate</a></p>
+<tr><th align="left"><strong>Software Technologies - February 2017</strong>: <br>27.02.2017 - 29.04.2017<br><br> Grade: 5.69 (out of 6.00)<br> Issue Date: 09/05/2017</th><th align="left">
+<p><a title="Software Technologies" href="https://softuni.bg/certificates/details/19652/70c7da15">Certificate</a></p>
 </th></tr>
 
 <tr>
