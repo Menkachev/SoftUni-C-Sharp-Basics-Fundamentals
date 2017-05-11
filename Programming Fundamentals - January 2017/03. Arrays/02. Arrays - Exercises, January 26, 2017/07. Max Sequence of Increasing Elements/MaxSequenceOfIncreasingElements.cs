@@ -12,8 +12,8 @@
         {
             var input = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            var longestSeq = 0;
-            var length = 1; // Will count how many times a number will repead.
+            var longestSeq = 0; // Allways will keep the longest sequence.
+            var length = 1; // Will count how many times a number will repeat.
             var endIndex = 0;
 
             for (int i = 0; i < input.Length - 1; i++)
@@ -32,7 +32,7 @@
 
                 if (longestSeq < length) 
                 {
-                    longestSeq = length;
+                    longestSeq = length; // If the current seq is > than the previous seq, it is the longest seq.
                     endIndex = i + 2;  
                 }
             }

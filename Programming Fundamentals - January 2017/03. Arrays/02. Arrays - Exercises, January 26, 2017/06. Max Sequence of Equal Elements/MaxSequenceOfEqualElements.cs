@@ -10,9 +10,9 @@
         {
             var input = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-            var longestSeq = 0;
-            var length = 1; // Will count how many times a number will repead.
-            var repeatedNum = 0;
+            var longestSeq = 0; // Allways will keep the longest sequence.
+            var length = 1; // Will count how many times a number will repeat.
+            var repeatedNum = 0; // The real number.
 
             for (int i = 0; i < input.Length - 1; i++)
             {
