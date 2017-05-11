@@ -3,8 +3,10 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
+
     class WormsWorldParty
     {
+        //  80 / 100
         static void Main()
         {
             Dictionary<string, Dictionary<string, int>> teams = new Dictionary<string, Dictionary<string, int>>();
@@ -57,7 +59,7 @@
 
             foreach (var team in teams)
             {
-                Console.WriteLine($"{count}. Team:{team.Key} - {team.Value.Sum(x => x.Value)}");
+                Console.WriteLine($"{count}. Team: {team.Key} - {team.Value.Sum(x => x.Value)}");
 
                 foreach (var worm in team.Value.OrderByDescending(x => x.Value))
                 {
