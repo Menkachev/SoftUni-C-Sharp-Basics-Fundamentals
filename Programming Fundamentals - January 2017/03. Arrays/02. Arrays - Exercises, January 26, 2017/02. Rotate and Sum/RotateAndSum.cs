@@ -26,12 +26,11 @@
 
             for (int i = 0; i < n; i++)
             {
-                // Rotate an array on the right.
                 var lastDigit = firstLine[firstLine.Length - 1]; 
 
-                for (int j = firstLine.Length - 1; j > 0; j--)
+                for (int j = firstLine.Length - 1; j > 0; j--) // Rotate the array from right to left.
                 {
-                    firstLine[j] = firstLine[j - 1]; 
+                    firstLine[j] = firstLine[j - 1]; // Current num = previous num.
                 }
 
                 firstLine[0] = lastDigit;
