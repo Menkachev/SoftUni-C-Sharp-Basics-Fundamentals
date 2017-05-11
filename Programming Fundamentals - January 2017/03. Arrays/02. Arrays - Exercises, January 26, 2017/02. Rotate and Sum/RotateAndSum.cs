@@ -20,11 +20,11 @@
         public static void Main()
         {
             var firstLine = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            var k = int.Parse(Console.ReadLine());
+            var n = int.Parse(Console.ReadLine());
 
             var sum = new int[firstLine.Length];
 
-            for (int i = 0; i < k; i++)
+            for (int i = 0; i < n; i++)
             {
                 // Rotate an array on the right.
                 var lastDigit = firstLine[firstLine.Length - 1]; 
