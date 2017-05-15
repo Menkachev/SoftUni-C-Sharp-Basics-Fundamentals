@@ -120,7 +120,7 @@ The course covers source control systems, <strong>Git</strong> and <strong>GitHu
  <td colspan="2"><p><a title="07. Files and Exceptions" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/07.%20Files%20and%20Exceptions/Lab%20-%20Files%20and%20Exceptions%20-%20February%208%2C%202016">07. Files and Exceptions</a></p></td>
 </tr>
 <tr>
- <td colspan="2"><p><a title="08. Strings" href="https://github.com/Menkachev/SoftUni-Exercises-with-C-Sharp/tree/master/Programming%20Fundamentals%20-%20January%202017/08.%20Strings/Lab%20-%20Strings%20-%20February%2013%2C%202017">08. Strings</a></p></td>
+ <td colspan="2"><p><a title="08. Strings" href="https://github.com/Menkachev/SoftUni-Software-Engineering/tree/master/Programming%20Fundamentals%20-%20January%202017/08.%20Strings">08. Strings</a></p></td>
 </tr>
 <tr>
  <td colspan="2"><p><a title="09. Regex" href="https://github.com/Menkachev/SoftUni-C-Sharp-Basics-Fundamentals/tree/master/Programming%20Fundamentals%20-%20January%202017/09.%20Regex">09. Regex</a></p></td>
